@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Bluewave Luxury Resort.jpg" width="800">
+  <img src="Bluewave Luxury Resort.jpg" width="600">
 </p>
 
 # Project: BlueWave Luxury Resort Database
